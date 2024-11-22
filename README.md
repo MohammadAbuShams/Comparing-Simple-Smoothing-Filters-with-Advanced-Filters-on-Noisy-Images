@@ -13,8 +13,6 @@ This project focuses on the task of image denoising, which aims to remove unwant
 - [Experimental Setup](#experimental-setup)
 - [Performance Metrics](#performance-metrics)
 - [Results](#results)
-- [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
