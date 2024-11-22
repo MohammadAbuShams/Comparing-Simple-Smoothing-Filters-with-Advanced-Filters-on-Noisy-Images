@@ -1,4 +1,5 @@
-# Image Denoising Assignment - ENCS5343
+# Comparing Simple Smoothing Filters with Advanced Filters on Noisy Images
+
 
 ## Overview
 
